@@ -1,4 +1,4 @@
-IR Range Extender for Flipper Zero
+# IR Range Extender for Flipper Zero
 
 Flipper Zero has de ability of sending IR signals, but it has very short range.
 This boards allows you to extend the range of your Flipper Zero using IR.
