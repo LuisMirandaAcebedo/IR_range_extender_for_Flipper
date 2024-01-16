@@ -8,3 +8,5 @@ The difference with other boards is that this one has both wide angle (120º) gr
 These groups of IR LEDs are selectable by a tiny switch.
 
 ![Render](https://github.com/LuisMirandaAcebedo/IR_range_extender_for_Flipper/blob/main/pics/render.png)
+
+The board connects to Flipper in a way that barely increases the size of the device.
